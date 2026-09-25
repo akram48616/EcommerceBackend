@@ -407,18 +407,4 @@ Contributions are welcome! Please follow these steps:
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## 📞 Support
 
-For support, email support@example.com or open an issue in the repository.
-
-## 📚 Additional Resources
-
-- [Spring Boot Documentation](https://spring.io/projects/spring-boot)
-- [Spring Security Documentation](https://spring.io/projects/spring-security)
-- [JWT Guide](https://jwt.io/)
-- [Razorpay Documentation](https://razorpay.com/docs/)
-
----
-
-**Version**: 0.0.1-SNAPSHOT  
-**Last Updated**: 2024

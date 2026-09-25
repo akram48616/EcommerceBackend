@@ -1,0 +1,9 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<body style="font-family: Arial, sans-serif; padding: 20px;">
+<h2>Thank you for your order, <span th:text="${firstName}">Customer</span>!</h2>
+<p>Order #<span th:text="${orderId}">0</span> has been placed.</p>
+<p>Status: <span th:text="${status}">PENDING</span></p>
+<p>Total: $<span th:text="${totalAmount}">0.00</span></p>
+</body>
+</html>
