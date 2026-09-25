@@ -6,8 +6,8 @@ import java.util.HexFormat;
 
 public class GenerateTestSignature {
     public static void main(String[] args) throws Exception {
-        String orderId = "order_TWNhkqqluxCH8e";  // ← your real razorpayOrderId from last test
-        String paymentId = "pay_test_fake123456";  // ← any fake string, format doesn't matter for this test
+        String orderId = "order_";  // ← your real razorpayOrderId from last test
+        String paymentId = "pay_te456";  // ← any fake string, format doesn't matter for this test
         String secret = "bVqE6Ov7brWer27MWv6xD4xA";
 
         String payload = orderId + "|" + paymentId;
